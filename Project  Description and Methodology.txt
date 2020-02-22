@@ -1,0 +1,35 @@
+Data Source:  NP.gov
+Use Pandas to clean data
+Python Flask - to bring it in.
+
+Sqlite to clean data
+Mapbox Studio for Style
+D3 Library
+
+
+Full Stack Implementation
+API from recreation.gov
+
+THEME: Yosimite in 3-Days
+Interaction: Dropdowns
+Layers: 
+   Campgrounds
+   Points of Interest
+   Recreation Spots
+
+Coding Approach:
+   Procedural Programming
+   Object Oriented Programming
+   Meta Programming
+   Imperative Programming
+   Declarative Programming
+
+Data Munging Technique: Using Excel
+transforming and mapping data from one "raw" data form into a different format with the intent of making it valuable to for people who want to explore Yosimite in a 3-day weekend.
+
+Track Type: Creative D3.js.project
+Dataset w/at least 100 records
+
+Python Flask-MongoDB
+Use Python and JS
+Flask Server = API
